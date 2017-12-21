@@ -1,7 +1,5 @@
 package org.rob.jpa;
 
-import com.sun.jdi.event.Event;
-
 import javax.persistence.EntityManager;
 import java.util.Date;
 
